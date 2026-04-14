@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Critical Support: Charles x Shirin</title>
+    <link>https://github.com/charlesdavis84/podcast-feed</link>
+    <language>en-us</language>
+    <description><![CDATA[A weekly podcast with an international lens on politics and culture.]]></description>
+    <lastBuildDate>Tue, 14 Apr 2026 10:45:17 GMT</lastBuildDate>
+    <itunes:author>Critical Support: Charles x Shirin</itunes:author>
+    <itunes:summary><![CDATA[A weekly podcast with an international lens on politics and culture.]]></itunes:summary>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email>criticalsupport@theredoubt.net</itunes:email>
+    </itunes:owner>
+
+  </channel>
+</rss>
