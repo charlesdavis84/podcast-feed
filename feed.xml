@@ -7,7 +7,7 @@
     <link>https://github.com/charlesdavis84/podcast-feed</link>
     <language>en-us</language>
     <description><![CDATA[A weekly podcast with an international lens on politics and culture.]]></description>
-    <lastBuildDate>Tue, 14 Apr 2026 10:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 12:36:39 GMT</lastBuildDate>
     <itunes:author>Critical Support: Charles x Shirin</itunes:author>
     <itunes:summary><![CDATA[A weekly podcast with an international lens on politics and culture.]]></itunes:summary>
     <itunes:category text="News"/>
@@ -17,5 +17,15 @@
       <itunes:email>criticalsupport@theredoubt.net</itunes:email>
     </itunes:owner>
 
+    <item>
+      <title>Welcome to Critical Support</title>
+      <description><![CDATA[Charles Davis and Shirin Sadeghi provide an international lens on politics and society.]]></description>
+      <enclosure url="https://f003.backblazeb2.com/file/critical-support/cs-episode-1" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://f003.backblazeb2.com/file/critical-support/cs-episode-1</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+      <itunes:title>Welcome to Critical Support</itunes:title>
+      <itunes:summary><![CDATA[Charles Davis and Shirin Sadeghi provide an international lens on politics and society.]]></itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
